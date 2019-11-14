@@ -3,7 +3,7 @@
 //  basic_comms
 //
 //  Created by null on 11/13/19.
-//  Copyright © 2019 Sean McConnell. All rights reserved.
+//  Copyright © 2019 null. All rights reserved.
 //
 
 
